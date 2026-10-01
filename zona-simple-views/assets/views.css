@@ -1,0 +1,10 @@
+.zsv-views {
+    margin: 16px 0;
+    color: #000;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+.zsv-count { font-variant-numeric: tabular-nums; }
+.zsv-views .zsv-label,
+.zsv-views .zsv-count { color: #000; }

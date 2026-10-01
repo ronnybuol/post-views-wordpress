@@ -1,0 +1,5 @@
+/test-runtime/
+/library-helper-current/
+/zona-simple-views-*.zip
+__pycache__/
+*.pyc
